@@ -1,6 +1,6 @@
 # Tech Notes
 
-* [unix](/tech/unix/)
+* [unix](unix.md)
 * [goaccess](goaccess.md)
 * [iptables](iptables.md)
 
