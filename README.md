@@ -1,4 +1,4 @@
 # notes
 Notes about stuff.
 
-[Tech](tech/index.md)
+## [Tech](tech/index.md)

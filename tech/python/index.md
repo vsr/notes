@@ -1,6 +1,4 @@
 # Python
 
-## Pip
 
-* [Pip](pip.md)
-* 
+## [Pip](pip.md)
