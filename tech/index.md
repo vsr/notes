@@ -1,7 +1,7 @@
 # Tech Notes
 
 * [unix](/tech/unix/)
-* [goaccess](/tech/goaccess/)
-* [iptables](/tech/iptables/)
+* [goaccess](goaccess.md)
+* [iptables](iptables.md)
 
-* [web](/tech/web/)
+* [web](web/index.md)

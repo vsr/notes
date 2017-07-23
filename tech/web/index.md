@@ -1,4 +1,4 @@
 # Web Notes
 
-* [html](/tech/web/html/)
-* [css](/tech/web/css/)
+* [html](html.md)
+* [css](css.md)
