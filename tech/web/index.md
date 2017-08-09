@@ -1,6 +1,6 @@
 # Web Notes
 
-* [html](html.md)
-* [css](css.md)
-* [pwa](pwa/index.md)
+* [HTML](html.md)
+* [CSS](css.md)
+* [PWA](pwa/index.md)
 * [Misc](misc/index.md)
