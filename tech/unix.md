@@ -16,3 +16,7 @@ mount -a
 md5sum directory/* > md5.txt
 ````
 
+#### Processes sorted by memory used
+````
+ps -eo pid,ppid,cmd,%mem,%cpu --sort=-%mem | head
+````
